@@ -1,0 +1,25 @@
+# PBS flags
+queue: express
+project: v45
+walltime: 30:00
+ncpus: 24
+# npernode: 12
+mem: 60GB 
+jobname: om3_core_test
+
+collate_walltime: 4:00:00
+collate_mem: 6GB
+
+# System environment
+stacksize: unlimited
+
+shortpath: /short/v45
+
+runlog: true
+
+# Model config
+model: mom
+exe: mom51_sis_ompi184_debug_5kmethods
+input:
+    - om3_core3
+
