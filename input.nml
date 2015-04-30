@@ -256,6 +256,7 @@
 
  &ocean_model_nml
       layout = 6,4,
+      io_layout = 6,4,
       dt_ocean = 7200,
       time_tendency='twolevel'
       vertical_coordinate='pstar'
