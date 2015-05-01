@@ -1,7 +1,7 @@
 # PBS flags
 queue: express
-project: y99
-walltime: 30:00
+project: v45
+walltime: 1:00:00
 ncpus: 24
 # npernode: 12
 mem: 60GB 
