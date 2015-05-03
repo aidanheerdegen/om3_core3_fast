@@ -5,7 +5,7 @@ MOM4p1_CORE_IAF_v20120531_0849_noRestore_runoff_fix
 "v_snap",           6,  "hours",  1, "hours", "time",
 "salt_snap",        6,  "hours",  1, "hours", "time",
 "temp_snap",        6,  "hours",  1, "hours", "time",
-"pot_rho_2k_snap",  6,  "hours",  1, "hours", "time",
+"pot_rho_2_snap",  6,  "hours",  1, "hours", "time",
 "ice_snap",         6,  "hours",  1, "hours", "time",
 "ice_daily",       24,  "hours",  1, "days", "time",
 #
@@ -76,7 +76,7 @@ MOM4p1_CORE_IAF_v20120531_0849_noRestore_runoff_fix
 #11/30 "ocean_model","bmf_u","bmf_u",                      "ocean","all",.true.,"none",2
 #11/30 "ocean_model","bmf_v","bmf_v",                      "ocean","all",.true.,"none",2
 #
-"ocean_model","pot_rho_2k","pot_rho_2k",            "pot_rho_2k_snap","all",.true.,"none",2
+"ocean_model","pot_rho_2","pot_rho_2",            "pot_rho_2_snap","all",.true.,"none",2
 "ocean_model","pot_rho_0","pot_rho_0",              "ocean","all",.true.,"none",2
 "ocean_model","dzt","dzt",                          "ocean","all",.true.,"none",2
 #

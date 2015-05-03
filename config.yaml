@@ -7,10 +7,10 @@ ncpus: 24
 mem: 60GB 
 jobname: om3_core_test
 
-collate: false
+collate: true
 
-# collate_walltime: 4:00:00
-# collate_mem: 6GB
+collate_walltime: 4:00:00
+collate_mem: 30GB
 
 # System environment
 stacksize: unlimited
