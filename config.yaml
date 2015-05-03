@@ -23,7 +23,8 @@ mpiP: true
 
 # Model config
 model: mom
-exe: mom51_sis_ompi184_debug_5kmethods
+# exe: mom51_sis_ompi184_debug_5kmethods
+exe: mom51_sis_xgrid
 input:
     - om3_core3
 
