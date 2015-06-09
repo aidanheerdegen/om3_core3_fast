@@ -1,13 +1,14 @@
 # PBS flags
 queue: express
-project: v45
+project: x77
 walltime: 1:00:00
 ncpus: 24
 # npernode: 12
 mem: 60GB 
 jobname: om3_core_test
 
-collate: true
+# collate: true
+collate: false
 
 collate_walltime: 4:00:00
 collate_mem: 30GB
