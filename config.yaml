@@ -12,6 +12,7 @@ collate: false
 
 collate_walltime: 4:00:00
 collate_mem: 30GB
+collate_flags: -n4 -z -m
 
 # System environment
 stacksize: unlimited
