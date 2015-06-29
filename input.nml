@@ -1,6 +1,6 @@
  &coupler_nml
         months = 0,
-        days   = 5,
+        days   = 6,
         current_date = 1990,1,1,0,0,0,
         calendar = 'NOLEAP',
         dt_cpld = 7200,
@@ -255,7 +255,8 @@
 /
 
  &ocean_model_nml
-      layout = 6,4,
+      ! layout = 6,4,
+      layout = 36,24
       io_layout = 6,4,
       dt_ocean = 7200,
       time_tendency='twolevel'
