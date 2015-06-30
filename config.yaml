@@ -1,6 +1,6 @@
 # PBS flags
 queue: express
-project: x77
+project: g40
 walltime: 1:00:00
 ncpus: 24
 # npernode: 12
