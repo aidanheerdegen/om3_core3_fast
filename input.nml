@@ -1,6 +1,6 @@
  &coupler_nml
-        months = 0,
-        days   = 6,
+        months = 3,
+        days   = 0,
         current_date = 1990,1,1,0,0,0,
         calendar = 'NOLEAP',
         dt_cpld = 7200,
@@ -40,6 +40,12 @@
          threading_read='multi'
          threading_write='single'
          fileset_write='single'
+
+/
+
+ &mpp_io_nml
+        deflate_level = 5
+        shuffle = 1
 /
 
  &fms_nml
