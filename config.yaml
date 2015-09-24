@@ -13,7 +13,7 @@ collate: true
 
 collate_walltime: 4:00:00
 collate_mem: 30GB
-collate_flags: -v -n4 -z -m
+collate_flags: -v -n4 -z -m -r
 collate_ncpus: 8
 collate_queue: express
 
