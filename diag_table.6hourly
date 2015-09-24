@@ -98,6 +98,10 @@ MOM4p1_CORE_IAF_v20120531_0849_noRestore_runoff_fix
 # td 12/7/11 "ocean_model","mld_dtheta","mld_dtheta", "ocean_daily","all",.true.,"none",2
 #
 # surface flux quantities
+# 
+# high frequency output to test antarctic feedback
+"ocean_model","river","river",        "ocean_daily","all",.true.,"none",2
+#
 "ocean_model","pme_river","pme_river",            "ocean","all",.true.,"none",2
 "ocean_model","river","river",        "ocean","all",.true.,"none",2
 "ocean_model","ice_calving","ice_calving",        "ocean","all",.true.,"none",2
