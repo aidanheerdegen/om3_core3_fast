@@ -416,7 +416,7 @@
       zero_surface_stress=.false.
       runoff_salinity=0.0
       temp_ice_runoff_feedback=.true.
-      debug_water_fluxes=.true.
+      ! debug_water_fluxes=.true.
 /
 
  &ocean_shortwave_csiro_nml
