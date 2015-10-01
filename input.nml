@@ -416,6 +416,7 @@
       zero_surface_stress=.false.
       runoff_salinity=0.0
       temp_ice_runoff_feedback=.true.
+      matt_num_runoff_scale=.true.
       ! debug_water_fluxes=.true.
 /
 
