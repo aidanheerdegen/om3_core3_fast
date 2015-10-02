@@ -16,7 +16,7 @@ collate_mem: 30GB
 collate_flags: -v -n4 -z -m -r
 collate_ncpus: 8
 collate_queue: express
-collate: false
+collate: true
 
 # System environment
 stacksize: unlimited
