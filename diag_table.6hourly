@@ -101,6 +101,7 @@ MOM4p1_CORE_IAF_v20120531_0849_noRestore_runoff_fix
 # 
 # high frequency output to test antarctic feedback
 "ocean_model","river","river",        "ocean_daily","all",.true.,"none",2
+"ocean_model","effective_temp","effective_temp",        "ocean_daily","all",.true.,"none",2
 #
 "ocean_model","pme_river","pme_river",            "ocean","all",.true.,"none",2
 "ocean_model","river","river",        "ocean","all",.true.,"none",2
