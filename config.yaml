@@ -4,7 +4,7 @@ project: x77
 walltime: 1:00:00
 ncpus: 96
 # npernode: 12
-mem: 60GB 
+mem: 180GB 
 jobname: om3_core_test
 join: oe
 
