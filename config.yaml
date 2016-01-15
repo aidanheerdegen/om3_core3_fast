@@ -3,7 +3,7 @@ queue: express
 project: x77
 walltime: 1:00:00
 ncpus: 96
-npernode: 15
+npernode: 14
 mem: 180GB 
 jobname: om3_core_test
 join: oe
