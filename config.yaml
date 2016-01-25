@@ -25,6 +25,8 @@ shortpath: /short/v45
 
 runlog: true
 
+qsub_flags: -W umask=027
+
 # mpiP: true
 
 # Model config
