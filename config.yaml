@@ -7,6 +7,8 @@ mem: 180GB
 jobname: om3_core_test
 join: oe
 
+archive: false
+
 collate: true
 # collate: false
 
