@@ -9,8 +9,8 @@ join: oe
 
 archive: false
 
-collate: true
-# collate: false
+# collate: true
+collate: false
 
 collate_walltime: 4:00:00
 collate_mem: 30GB
