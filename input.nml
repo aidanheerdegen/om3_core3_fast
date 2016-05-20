@@ -415,7 +415,7 @@
       zero_heat_fluxes=.false.
       zero_surface_stress=.false.
       runoff_salinity=0.0
-      temp_ice_runoff_feedback_calc_scale=.true.
+      ! temp_ice_runoff_feedback_calc_scale=.true.
       ! temp_ice_runoff_feedback_scale=44.
       ! debug_water_fluxes=.true.
 /
