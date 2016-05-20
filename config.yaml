@@ -34,7 +34,7 @@ restart: true
 # Model config
 model: mom
 # exe: mom51_sis_ompi184_debug_5kmethods
-exe: mom51_sis_xgrid
+exe: fms_MOM_SIS.intel14.fpe0.O3
 # exe: fms_MOM_SIS_matt.x
 input:
     - om3_core3
