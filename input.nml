@@ -673,6 +673,7 @@
  &xgrid_nml
             make_exchange_reproduce=.true.
 	    interp_method = 'second_order' 
+         nsubset=16
             do_alltoall = .true.
             do_alltoallv = .true.
 /
