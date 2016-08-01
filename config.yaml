@@ -37,5 +37,6 @@ model: mom
 exe: fms_MOM_SIS.intel14.fpe0.O3
 # exe: fms_MOM_SIS_matt.x
 input:
+    - mom10/mask_96
     - om3_core3
 
