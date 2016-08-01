@@ -70,6 +70,8 @@
        mom_rough_ice=5.0e-4
        wd_turn=0.0
        h_lo_lim = 1.e-10
+      layout = 12,8,
+      io_layout = 12,8,
 /
 
  &monin_obukhov_nml
