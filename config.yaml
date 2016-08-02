@@ -2,7 +2,7 @@
 queue: express
 project: x77
 walltime: 0:10:00
-ncpus: 93
+ncpus: 92
 mem: 180GB 
 jobname: om3_core_test
 join: oe
