@@ -35,7 +35,7 @@ restart: true
 model: mom
 # exe: mom51_sis_ompi184_debug_5kmethods
 exe: fms_MOM_SIS.intel14.fpe0.O3
-exe: /short/v45/aph502/mom/bin/fms_MOM_SIS.intel14.fpe0.O2
+exe: /short/v45/aph502/mom/bin/fms_MOM_SIS.intel14.fpe0.O2.maskdebug
 # exe: fms_MOM_SIS_matt.x
 input:
     - mom10/mask_96
