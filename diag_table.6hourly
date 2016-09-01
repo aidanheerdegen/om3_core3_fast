@@ -87,8 +87,8 @@ MOM5_CORE_NYF_50lvl_comparison_test
 #
 # Kerguelen
 #
-"ocean_model","u","u","ocean_kerg",.true.,"69,82,43,53",2
-"ocean_model","v","v","ocean_kerg",.true.,"69,82,43,53",2
+"ocean_model","u","u","ocean_kerg",.true.,"69,82,43,53,-1,-1",2
+"ocean_model","v","v","ocean_kerg",.true.,"69,82,43,53,-1,-1",2
 #
 # "ocean_model","geolon_t","geolon_t", "ocean_%4yr_%3dy","all",.false.,"none",2
 # "ocean_model","geolat_t","geolat_t", "ocean_%4yr_%3dy","all",.false.,"none",2
