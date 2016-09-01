@@ -29,7 +29,7 @@ qsub_flags: -W umask=027
 
 # mpiP: true
 
-restart: true
+# restart: true
 
 # Model config
 model: mom
