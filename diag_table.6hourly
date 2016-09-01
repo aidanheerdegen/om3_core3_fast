@@ -82,8 +82,8 @@ MOM5_CORE_NYF_50lvl_comparison_test
 #
 # Ocean
 #
-"ocean_model","usurf","usurf","ocean_daily",.true.,"none",2
-"ocean_model","vsurf","vsurf","ocean_daily",.true.,"none",2
+"ocean_model","usurf","usurf","ocean_daily","all",.true.,"none",2
+"ocean_model","vsurf","vsurf","ocean_daily","all",.true.,"none",2
 #
 # Kerguelen
 #
