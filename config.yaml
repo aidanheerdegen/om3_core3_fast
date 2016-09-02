@@ -41,3 +41,4 @@ input:
     - mom10/mask_96
     - om3_core3
 
+debug: true
